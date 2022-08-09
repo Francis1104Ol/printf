@@ -2,6 +2,8 @@
 
 /**
  * prinlunt - prints a long unsigned integer
+ * printlunt - prints a long unsigned integer
+ *
  * @arguments: number to print
  * @buf: buffer pointer
  * @ibuf: index for buffer to pointer
